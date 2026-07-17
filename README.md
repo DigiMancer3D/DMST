@@ -38,6 +38,10 @@ Everything is designed to be:
 
 ---
 
+![DigiMancer Stream](https://raw.githubusercontent.com/DigiMancer3D/DMST/refs/heads/main/DM3D_group_2.png)
+
+---
+
 ### Quick Start
 
 1. Clone this meta-repo (optional but recommended):
