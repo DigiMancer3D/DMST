@@ -167,6 +167,8 @@ Individual repositories may require additional packages as their features evolve
 
 # 1. Streamer Board & Console
 
+![Streamer Board and Console](https://raw.githubusercontent.com/DigiMancer3D/Streamer-Board-Console/main/icon.png)
+
 Repository:
 
 https://github.com/DigiMancer3D/Streamer-Board-Console
@@ -257,6 +259,8 @@ After opening the console:
 ---
 
 # 2. Deck Card Widget
+
+![Deck Card Widget](https://raw.githubusercontent.com/DigiMancer3D/Deck-Card-Widget/main/icon.png)
 
 Repository:
 
@@ -434,6 +438,8 @@ Useful mocap controls:
 
 # 4. SWAR :  Script Writer and Reader
 
+![SWAR Reader](https://raw.githubusercontent.com/DigiMancer3D/3DChangesPerspectives/main/SWAR/icon-reader.svg)
+
 Repository:
 
 https://github.com/DigiMancer3D/3DChangesPerspectives/tree/main/SWAR
@@ -583,6 +589,8 @@ soundcard.crumbs
 ---
 
 # 6. G502V
+
+![G502V Mouse Visualizer](https://raw.githubusercontent.com/DigiMancer3D/G502V/main/G502Vicon.png)
 
 Repository:
 
