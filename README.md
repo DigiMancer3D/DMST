@@ -5,7 +5,7 @@
 > One console. All your stream tools.  
 > Low-resource • Linux-first • OBS-native • VTuber-ready
 
-![DigiMancer Stream](https://github.com/DigiMancer3D/DMST/banner.png)
+![DigiMancer Stream](https://raw.githubusercontent.com/DigiMancer3D/DMST/refs/heads/main/Github_group.png)
 
 ---
 
